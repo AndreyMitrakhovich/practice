@@ -4,4 +4,4 @@ include ':toastapp'
 include ':intentfilter'
 include ':multiactivity'
 include ':LifecycleActivity'
-rootProject.name = "ru.mirea.antipkin.practice2"
+rootProject.name = "ru.mirea.mitrakhovich.practice2"
